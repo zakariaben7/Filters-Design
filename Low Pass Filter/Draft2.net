@@ -1,0 +1,9 @@
+* C:\Users\ASUS\Documents\Electronics\Filters Design\Low Pass Filter\Draft2.asc
+V1 N001 0 AC 1
+C1 N001 0 100µ
+L2 N001 N002 10µ
+R1 N002 0 50
+C2 N002 0 100µ
+.ac dec 20 500k 10000000k
+.backanno
+.end
